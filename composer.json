@@ -1,12 +1,12 @@
 {
     "name": "galatanovidiu/laravel-snacks",
-    "description": ":package_description",
+    "description": ":Just some laravel snacks for my personal use",
     "license": "license",
     "authors": [
         {
-            "name": "author name",
-            "email": "author email",
-            "homepage": "author homepage"
+            "name": "Galatan Ovidiu Iulian",
+            "email": "galatanovidiu@gmail.com",
+            "homepage": "https://rogio.com"
         }
     ],
     "homepage": "https://github.com/galatanovidiu/laravel-snacks",
